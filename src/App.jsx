@@ -7,6 +7,7 @@ import { skills } from "./constants/skillsimage"
 import Projects from "./Components/Projects"
 import ContactMe from "./Components/ContactMe"
 import Footer from "./Components/Footer"
+import Education from "./Components/Education"
 
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
       <About/>
       <Skills skills={skills}/>
       <Projects/>
+      <Education/>
       <ContactMe/>
       <Footer/>
      </div>
