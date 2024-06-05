@@ -16,16 +16,16 @@ const Footer = () => {
         <span className='flex pr-24 text-white' >
             <div className=' flex space-x-10  items-center   '>
               <div className=' rounded-full border-white border-2 p-2'>
-              <a href='#' ><FaInstagram /></a>
+              <a href='https://www.instagram.com/dhwxnit.rwt/' ><FaInstagram /></a>
               </div>
               <div className=' rounded-full border-white border-2 p-2'>
-              <a href='#' ><FaSquareXTwitter /></a>
+              <a href='https://x.com/DhwanitRawat' ><FaSquareXTwitter /></a>
               </div>
               <div className=' rounded-full border-white border-2 p-2'>
-              <a href='#' ><FaGithub /></a>
+              <a href='https://github.com/Dhwanit2003' ><FaGithub /></a>
               </div>
               <div className=' rounded-full border-white border-2 p-2'>
-              <a href='#' ><FaLinkedin /></a>
+              <a href='https://www.linkedin.com/in/dhwanit-singh-rawat-7b2080206/' ><FaLinkedin /></a>
               </div>
             </div>
           </span>
